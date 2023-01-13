@@ -1,3 +1,3 @@
 # EVA
 
-Création d'un chabot web qui effectue des requêtes a l'api Open Ai
+Création d'un chabot web qui effectue des requêtes à l'api OpenAi sur son modèle chat GPT3 ( text-davinci )
